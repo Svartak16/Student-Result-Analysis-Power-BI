@@ -42,4 +42,6 @@ Run the notebook to load and analyze the dataset, then automatically (or manuall
 
 7. open students_dashboard.pbit manually
 
+OUTPUTS:
+![image alt](https://github.com/Svartak16/Student-Result-Analysis-Power-BI/blob/2a2e47013a81579fce1c692bae524963f6e40dbc/activate%20conda.png)
 
