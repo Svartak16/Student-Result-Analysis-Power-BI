@@ -45,4 +45,4 @@ Run the notebook to load and analyze the dataset, then automatically (or manuall
 OUTPUTS:
 ![image alt](https://github.com/Svartak16/Student-Result-Analysis-Power-BI/blob/2a2e47013a81579fce1c692bae524963f6e40dbc/activate%20conda.png)
 ![image alt](https://github.com/Svartak16/Student-Result-Analysis-Power-BI/blob/c1835d5b64f530cb9de994be7a318485fbe4d6e2/home%20page%20of%20jupyter%20notebook.png)
-![image alt](
+![image alt](https://github.com/Svartak16/Student-Result-Analysis-Power-BI/blob/450487a163ed60b2ed35af890d2716d66074f337/run%20jupyter%20source%20file.png)
